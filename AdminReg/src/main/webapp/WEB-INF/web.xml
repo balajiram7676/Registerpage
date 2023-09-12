@@ -1,0 +1,55 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <!--  <servlet>
+  	<servlet-name>EmpLoginServ</servlet-name>
+  	<display-name>EmpLoginServ</display-name>
+  	<description></description>
+  	<servlet-class>com.user.EmpLoginServ</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>EmpLoginServ</servlet-name>
+  	<url-pattern>/EmpLoginServ</url-pattern>
+  </servlet-mapping>
+<servlet>
+  	<servlet-name>RegCon</servlet-name>
+  	<display-name>RegCon</display-name>
+  	<description></description>
+  	<servlet-class>Demo.RegCon</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>logincon</servlet-name>
+  	<display-name>logincon</display-name>
+  	<description></description>
+  	<servlet-class>Demo.logincon</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>EmpReg</servlet-name>
+  	<display-name>EmpReg</display-name>
+  	<description></description>
+  	<servlet-class>com.user.EmpReg</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RegCon</servlet-name>
+  	<url-pattern>/RegCon</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>logincon</servlet-name>
+  	<url-pattern>/logincon</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>EmpReg</servlet-name>
+  	<url-pattern>/EmpReg</url-pattern>
+  </servlet-mapping>   --> 
+  
+  
+  <welcome-file-list>
+  
+  
+  <welcome-file>Home.jsp</welcome-file>
+  </welcome-file-list>
+  
+</web-app>
